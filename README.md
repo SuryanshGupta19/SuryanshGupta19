@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm currently learning about Machine learning and Deep Learning. 
 
 <!--
 **SuryanshGupta19/SuryanshGupta19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
